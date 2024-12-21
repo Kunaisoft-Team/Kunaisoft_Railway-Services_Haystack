@@ -1,4 +1,12 @@
-numpy==1.21.0
-haystack==1.13.1
-uvicorn==0.17.6
-fastapi==0.68.2
+haystack==1.15.1
+fastapi==0.95.2
+uvicorn==0.23.0
+pandas==1.5.3
+python-multipart==0.0.6
+gunicorn==20.1.0
+requests==2.31.0
+sentence-transformers==2.2.2
+numpy==1.24.3
+scipy==1.10.1
+torch==2.0.1
+transformers==4.30.2
