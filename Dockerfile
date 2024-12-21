@@ -1,5 +1,5 @@
 # Use an official Python image as the base
-FROM python:3.9-slim
+FROM python:3.9-buster
 
 # Set working directory
 WORKDIR /usr/src/haystack
