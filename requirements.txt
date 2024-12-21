@@ -1,0 +1,4 @@
+numpy==1.21.0
+haystack==1.13.1
+uvicorn==0.17.6
+fastapi==0.68.2
