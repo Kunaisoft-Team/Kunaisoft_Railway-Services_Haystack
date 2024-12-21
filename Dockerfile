@@ -24,4 +24,4 @@ RUN pip install --upgrade pip && \
 EXPOSE 8000
 
 # Set default command
-CMD ["python", "rest_api/application.py"]
+CMD ["uvicorn", "application:app", "--host", "0.0.0.0", "--port", "8000"]
