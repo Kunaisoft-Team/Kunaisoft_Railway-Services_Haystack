@@ -9,4 +9,8 @@ sentence-transformers==2.2.2
 numpy==1.24.3
 scipy==1.10.1
 torch==2.0.1
-transformers==4.30.2
+transformers==4.25.1
+elasticsearch==8.9.0
+sqlalchemy==2.0.20
+python-dotenv==1.0.0
+protobuf==4.23.4
