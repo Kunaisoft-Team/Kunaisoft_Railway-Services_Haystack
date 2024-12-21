@@ -1,4 +1,4 @@
-haystack==1.15.1
+farm-haystack==1.15.1
 fastapi==0.95.2
 uvicorn==0.23.0
 pandas==1.5.3
